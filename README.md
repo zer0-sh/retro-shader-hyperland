@@ -72,3 +72,13 @@ Now you can use the `enablecrtshader` and `disablecrtshader` commands directly i
 
 Feel free to contribute or modify the shader for further customization!
 
+## Dots
+
+Check out the dots configuration for Hyprland here:
+
+[end_4's Hyprland dotfiles](https://github.com/end-4/dots-hyprland/tree/main)
+
+## Acknowledgements
+
+Special thanks to ChatGPT xd.
+
