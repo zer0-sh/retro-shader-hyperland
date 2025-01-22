@@ -5,13 +5,18 @@ Retro Hyprland is a shader designed to emulate the look and feel of old cathode 
 
 ## Screenshots
 
-![Retro Shader in action](./media/example_video.mp4)  
+<video width="800" height="600" controls>
+  <source src="./media/example_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>  
 *Example of Retro Shader 4 Hyprland in action.*
 
 ![Pic1](./media/image1.png)
 *Screenshot 1*
+
 ![Pic2](./media/image2.png)
 *Screenshot 2*
+
 ![Pic3](./media/image3.png)
 *Screenshot 3*
 
